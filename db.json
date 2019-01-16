@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "John Papa",
+      "phone": "9999999999",
+      "address": "Moon",
+      "membership": "Platinum",
+      "id": 1
+    },
+    {
+      "name": "Tarzan",
+      "phone": "9998888999",
+      "address": "Jungle",
+      "membership": "pro",
+      "id": 2
+    }
+  ]
+}
